@@ -13,7 +13,7 @@ async function processAdLinks() {
 
     for (let link of adLinks) {
       try {
-        const response = await axios.get(`https://api.bypass.vip/bypass?url=${encodeURIComponent(link)}`);
+        const response = await axios.get(`https://REDACTEDNOLOOK/bypass?url=${encodeURIComponent(link)}`);
 
         console.log(`Original URL: ${link}`);
         console.log(`API Response:`, response.data);
@@ -31,3 +31,4 @@ async function processAdLinks() {
 }
 
 processAdLinks();
+
