@@ -1,5 +1,5 @@
 # BulkBypasser
-Proof of concept annoying Bulk AdLink workaround
+Proof of concept annoying Bulk AdLink Analysis tool
 
 PS - My personal API from this has been removed as it is a proof of concept and isnt released for malicious usage
 ALSO PS - adlinks.txt is also removed for privacy reasons
